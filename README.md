@@ -14,7 +14,7 @@ Este é um projeto **clone visual do Spotify**, desenvolvido com **React**, **Ta
 
 ## 📸 Preview
 
-<img src="./screenshot.png" alt="Preview do Spotify Clone" width="800"/>
+[<img src="./screenshot.png" alt="Preview do Spotify Clone" width="800"/>](https://github.com/Coimbraitalo01/spotify-clone/blob/main/Preview.png)
 
 ---
 
